@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👨‍💻 Gabriel de Souza Fonseca
 
-<!--
-**FoonsGabriel/FoonsGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Estudante de **Análise e Desenvolvimento de Sistemas no Colégio Técnico da Unicamp - COTUCA** <br>
+ - Apaixonado por tecnologia e desenvolvimento de software <br>
+ - Buscando evoluir constantemente na área de programação
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Sobre mim
+
+* 📚 Cursando **Técnico em Análise e Desenvolvimento de Sistemas**
+* 💡 Interesse em **desenvolvimento de software e tecnologia**
+* 🧠 Aprendendo constantemente novas ferramentas e linguagens
+* 🎯 Objetivo: me tornar um **desenvolvedor profissional**
+
+---
+
+##  Tecnologias que estou aprendendo
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Java" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+<img align="center" alt="Spring" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+
+<img align="center" alt="Csharp" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+
+<img align="center" alt="Kotlin" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+
+<img align="center" alt="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+<img align="center" alt="Arduino" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+
+<img align="center" alt="MicrosoftSQLServer" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+
+</div>
+
+
+
+---
+
+##  Estatísticas do GitHub
+
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 Em breve adicionarei projetos desenvolvidos durante meus estudos.
+
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: www.linkedin.com/in/gabriel-fonseca-568050355
+* 📧 Email: fonsecagabriel2327@gmail.com
