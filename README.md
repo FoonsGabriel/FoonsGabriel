@@ -1,4 +1,4 @@
-# 👨‍💻 Gabriel de Souza Fonseca
+#  Gabriel de Souza Fonseca
 
  - Estudante de **Análise e Desenvolvimento de Sistemas no Colégio Técnico da Unicamp - COTUCA** <br>
  - Apaixonado por tecnologia e desenvolvimento de software <br>
@@ -8,10 +8,10 @@
 
 ##  Sobre mim
 
-* 📚 Cursando **Técnico em Análise e Desenvolvimento de Sistemas**
-* 💡 Interesse em **desenvolvimento de software e tecnologia**
-* 🧠 Aprendendo constantemente novas ferramentas e linguagens
-* 🎯 Objetivo: me tornar um **desenvolvedor profissional**
+*  Cursando **Técnico em Análise e Desenvolvimento de Sistemas**
+*  Interesse em **desenvolvimento de software e tecnologia**
+*  Aprendendo constantemente novas ferramentas e linguagens
+*  Objetivo: me tornar um **desenvolvedor profissional**
 
 ---
 
@@ -39,13 +39,7 @@
 
 ---
 
-##  Estatísticas do GitHub
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=tokyonight)
-
----
 
 ## 📂 Projetos em destaque
 
