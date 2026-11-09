@@ -1,10 +1,12 @@
- <div align="center">
 
+<div align="center">
+
+<!-- ORIGINAL BANNER — MANTIDO -->
 <img src="./Ulquiora.jpg" width="100%" alt="Ulquiorra Cifer — The Void"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-00D6A0?style=flat-square" />
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-00D6A0?style=flat-square"/>
 
 # 𝙁𝙊𝙊𝙉𝙎𝙂𝘼𝘽𝙍𝙄𝙀𝙇
 
@@ -12,15 +14,17 @@
 
 **SOFTWARE DEVELOPMENT · TECHNOLOGY · CREATION**
 
-<img src="https://img.shields.io/badge/ESPADA-04-00D6A0?style=for-the-badge&labelColor=080B0B" />
-<img src="https://img.shields.io/badge/IBM-INTERN-1261FE?style=for-the-badge&labelColor=080B0B" />
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-00D6A0?style=for-the-badge&labelColor=080B0B" />
+<img src="https://img.shields.io/badge/ESPADA-04-00D6A0?style=for-the-badge&labelColor=080B0B"/>
+<img src="https://img.shields.io/badge/IBM-INTERN-1261FE?style=for-the-badge&labelColor=080B0B"/>
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL-00D6A0?style=for-the-badge&labelColor=080B0B"/>
 
 <br/>
 
-[ GITHUB ](https://github.com/FoonsGabriel)　◆　[ LINKEDIN ](https://www.linkedin.com/in/gabriel-fonseca-568050355/)
+<a href="https://github.com/FoonsGabriel">GITHUB</a>
+&nbsp; ◆ &nbsp;
+<a href="https://www.linkedin.com/in/gabriel-fonseca-568050355/">LINKEDIN</a>
 
-`LAS NOCHES`　◆　`RESURRECCIÓN`　◆　`EVOLUTION`
+`LAS NOCHES` ◆ `RESURRECCIÓN` ◆ `EVOLUTION`
 
 </div>
 
@@ -107,7 +111,7 @@ Minha jornada profissional na IBM representa uma oportunidade de aprendizado, de
 
 <div align="center">
 
-`LEARNING`　◆　`DEVELOPMENT`　◆　`EVOLUTION`
+`LEARNING` ◆ `DEVELOPMENT` ◆ `EVOLUTION`
 
 </div>
 
@@ -120,9 +124,11 @@ Minha jornada profissional na IBM representa uma oportunidade de aprendizado, de
 
 *Cada ferramenta é uma nova habilidade. Cada linguagem, uma nova possibilidade.*
 
+<img src="https://img.shields.io/badge/REIATSU_LEVEL-UNLIMITED-00D6A0?style=flat-square&labelColor=080B0B"/>
+
 </div>
 
-### ◈ PROGRAMMING LANGUAGES
+### ◈ 01 — PROGRAMMING LANGUAGES
 
 <div align="center">
 
@@ -135,7 +141,7 @@ Minha jornada profissional na IBM representa uma oportunidade de aprendizado, de
 
 </div>
 
-### ◈ WEB DEVELOPMENT
+### ◈ 02 — WEB DEVELOPMENT
 
 <div align="center">
 
@@ -146,7 +152,7 @@ Minha jornada profissional na IBM representa uma oportunidade de aprendizado, de
 
 </div>
 
-### ◈ HARDWARE & TOOLS
+### ◈ 03 — HARDWARE & TOOLS
 
 <div align="center">
 
@@ -162,16 +168,31 @@ Minha jornada profissional na IBM representa uma oportunidade de aprendizado, de
 
 <div align="center">
 
-## 04 — LAS NOCHES ARCHIVE
-### PROJECTS // MISSIONS IN PROGRESS
+## 04 — LAS NOCHES
+### CLASSIFIED PROJECT ARCHIVES
 
-*Ideias que saíram do papel e começaram a ganhar forma.*
+*Cada projeto é uma missão. Cada missão representa uma nova evolução.*
+
+<img src="https://img.shields.io/badge/ARCHIVE-RESTRICTED_ACCESS-00D6A0?style=for-the-badge&labelColor=080B0B"/>
 
 </div>
 
 <table>
 <tr>
+<td colspan="2" align="center">
+
+### ⚔️ MISSION BOARD // ACTIVE RECORDS
+
+`LAS NOCHES CENTRAL DATABASE`
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/MISSION-001-00D6A0?style=flat-square&labelColor=080B0B"/>
+<img src="https://img.shields.io/badge/CLASS-SPECIAL-00D6A0?style=flat-square&labelColor=080B0B"/>
 
 ### ⚔️ SHINOBI VTT
 
@@ -179,17 +200,22 @@ Minha jornada profissional na IBM representa uma oportunidade de aprendizado, de
 
 Um Virtual Tabletop inspirado no universo Naruto, criado para experiências de RPG de mesa.
 
+**MISSION DETAILS**
+
 - Mapas interativos
 - Tokens e personagens
 - Interação com cenários
 - Desenvolvimento de funcionalidades próprias
 
-`STATUS: IN DEVELOPMENT`
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-00D6A0?style=flat-square&labelColor=080B0B"/>
 
-[ ACESSAR PROJETO ](https://github.com/FoonsGabriel)
+`PROJECT // UNDER CONSTRUCTION`
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/MISSION-002-00D6A0?style=flat-square&labelColor=080B0B"/>
+<img src="https://img.shields.io/badge/CLASS-ACADEMIC-00D6A0?style=flat-square&labelColor=080B0B"/>
 
 ### ✚ GASTROSYNQ
 
@@ -197,65 +223,111 @@ Um Virtual Tabletop inspirado no universo Naruto, criado para experiências de R
 
 Projeto acadêmico de tecnologia e desenvolvimento de software, desenvolvido como parte da jornada de aprendizado.
 
-`STATUS: PROJECT ARCHIVE`
+**MISSION DETAILS**
 
-[ ACESSAR REPOSITÓRIO ](https://github.com/FoonsGabriel)
+- Desenvolvimento acadêmico
+- Aprendizado tecnológico
+- Experiência em desenvolvimento de software
+
+<img src="https://img.shields.io/badge/STATUS-PROJECT_ARCHIVE-00D6A0?style=flat-square&labelColor=080B0B"/>
+
+`PUBLIC REPOSITORY // NOT CONFIGURED`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/MISSION-003-00D6A0?style=flat-square&labelColor=080B0B"/>
+<img src="https://img.shields.io/badge/CLASS-POKEMON-00D6A0?style=flat-square&labelColor=080B0B"/>
 
 ### ◉ POKEWIKI
 
 Projeto disponível publicamente no GitHub.
 
-`STATUS: REPOSITORY`
+**MISSION DETAILS**
 
-[ ACESSAR POKEWIKI ](https://github.com/FoonsGabriel/PokeWiki)
+- Repositório de desenvolvimento
+- Projeto de aprendizado
+
+<img src="https://img.shields.io/badge/STATUS-PUBLIC_REPOSITORY-00D6A0?style=flat-square&labelColor=080B0B"/>
+
+<a href="https://github.com/FoonsGabriel/PokeWiki">
+<img src="https://img.shields.io/badge/ACCESS_ARCHIVE-00D6A0?style=for-the-badge&logo=github&logoColor=000000&labelColor=101414"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/MISSION-004-00D6A0?style=flat-square&labelColor=080B0B"/>
+<img src="https://img.shields.io/badge/CLASS-ALGORITHM-00D6A0?style=flat-square&labelColor=080B0B"/>
+
 ### ⌘ BACKTRACKING C#
+
+**ALGORITHM STUDY**
 
 Estudo de algoritmos de backtracking em C#, explorando caminhos em matrizes e conceitos relacionados a grafos.
 
-`STATUS: STUDY PROJECT`
+**MISSION DETAILS**
 
-[ ACESSAR REPOSITÓRIO ](https://github.com/FoonsGabriel/BackTrackingCsharp)
+- Algoritmos de backtracking
+- Busca de caminhos em matrizes
+- Conceitos relacionados a grafos
+
+<img src="https://img.shields.io/badge/STATUS-STUDY_PROJECT-00D6A0?style=flat-square&labelColor=080B0B"/>
+
+<a href="https://github.com/FoonsGabriel/BackTrackingCsharp">
+<img src="https://img.shields.io/badge/ACCESS_ARCHIVE-00D6A0?style=for-the-badge&logo=github&logoColor=000000&labelColor=101414"/>
+</a>
 
 </td>
 </tr>
+
 <tr>
 <td colspan="2" valign="top">
+
+<img src="https://img.shields.io/badge/MISSION-005-00D6A0?style=flat-square&labelColor=080B0B"/>
+<img src="https://img.shields.io/badge/CLASS-TRAINING-00D6A0?style=flat-square&labelColor=080B0B"/>
 
 ### ⚙️ OFICINAGITHUB
 
 Repositório de prática e aprendizado com GitHub.
 
-`STATUS: REPOSITORY`
+<img src="https://img.shields.io/badge/STATUS-TRAINING_ARCHIVE-00D6A0?style=flat-square&labelColor=080B0B"/>
 
-[ ACESSAR OFICINAGITHUB ](https://github.com/FoonsGabriel/OficinaGitHub)
+<a href="https://github.com/FoonsGabriel/OficinaGitHub">
+<img src="https://img.shields.io/badge/ACCESS_ARCHIVE-00D6A0?style=for-the-badge&logo=github&logoColor=000000&labelColor=101414"/>
+</a>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+`END OF ARCHIVE // MORE MISSIONS TO COME`
+
+</div>
 
 ---
 
 <div align="center">
 
 ## 05 — SPIRITUAL PRESSURE
-### ACTIVITY // CONTINUOUS EVOLUTION
+### CONTINUOUS EVOLUTION
 
-Não existe evolução sem prática. Cada linha de código representa mais um passo.
+*Não existe evolução sem prática. Cada linha de código representa mais um passo.*
 
 <br/>
 
-[![Repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-00D6A0?style=for-the-badge&logo=github&logoColor=000000&labelColor=101414)](https://github.com/FoonsGabriel?tab=repositories)
+<a href="https://github.com/FoonsGabriel?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-00D6A0?style=for-the-badge&logo=github&logoColor=000000&labelColor=101414"/>
+</a>
 
-[![Contributions](https://img.shields.io/badge/VIEW_CONTRIBUTIONS-00D6A0?style=for-the-badge&logo=github&logoColor=000000&labelColor=101414)](https://github.com/FoonsGabriel?tab=overview)
+<a href="https://github.com/FoonsGabriel?tab=overview">
+<img src="https://img.shields.io/badge/VIEW_CONTRIBUTIONS-00D6A0?style=for-the-badge&logo=github&logoColor=000000&labelColor=101414"/>
+</a>
 
 </div>
 
@@ -283,9 +355,10 @@ Não existe evolução sem prática. Cada linha de código representa mais um pa
 ### 「 Why do humans seek meaning? 」
 
 # 𝙐𝙇𝙌𝙐𝙄𝙊𝙍𝙍𝘼
+
 ## `THE VOID`
 
-`THINK`　◆　`CREATE`　◆　`EVOLVE`
+`THINK` ◆ `CREATE` ◆ `EVOLVE`
 
 <sub>There is always another level to reach.</sub>
 
@@ -294,3 +367,4 @@ Não existe evolução sem prática. Cada linha de código representa mais um pa
 <img src="https://img.shields.io/badge/FOONSGABRIEL-00D6A0?style=flat-square&labelColor=080B0B"/>
 
 </div>
+```
