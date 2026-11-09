@@ -1,24 +1,26 @@
-<div align="center">
+ <div align="center">
 
 <img src="./Ulquiora.jpg" width="100%" alt="Ulquiorra Cifer — The Void"/>
 
-<br>
+<br/>
 
-# 𝙂𝘼𝘽𝙍𝙄𝙀𝙇 𝙁𝙊𝙉𝙎𝙀𝘾𝘼
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-00D6A0?style=flat-square" />
 
-### `THE VOID // SOFTWARE DEVELOPMENT`
+# 𝙁𝙊𝙊𝙉𝙎𝙂𝘼𝘽𝙍𝙄𝙀𝙇
 
-**Estagiário na IBM | Desenvolvedor | Criador de projetos**
+### `ULQUIORRA // THE VOID`
 
-<br>
+**SOFTWARE DEVELOPMENT · TECHNOLOGY · CREATION**
 
-[![GitHub](https://img.shields.io/badge/GITHUB-FOONSGABRIEL-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FoonsGabriel)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fonseca-568050355/)
-[![IBM](https://img.shields.io/badge/IBM-INTERN-1261FE?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/)
+<img src="https://img.shields.io/badge/ESPADA-04-00D6A0?style=for-the-badge&labelColor=080B0B" />
+<img src="https://img.shields.io/badge/IBM-INTERN-1261FE?style=for-the-badge&labelColor=080B0B" />
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL-00D6A0?style=for-the-badge&labelColor=080B0B" />
 
-<br>
+<br/>
 
-`ESPADA Nº 4` &nbsp; ◆ &nbsp; `LAS NOCHES` &nbsp; ◆ &nbsp; `BRAZIL`
+[ GITHUB ](https://github.com/FoonsGabriel)　◆　[ LINKEDIN ](https://www.linkedin.com/in/gabriel-fonseca-568050355/)
+
+`LAS NOCHES`　◆　`RESURRECCIÓN`　◆　`EVOLUTION`
 
 </div>
 
@@ -26,112 +28,52 @@
 
 <div align="center">
 
-# 01 // IDENTITY
-
+## 01 — IDENTITY
 ### 「 Welcome to my world. 」
-
-</div>
-
-```yaml
-identity:
-  name: Gabriel de Souza Fonseca
-  github: FoonsGabriel
-  location: Brazil
-
-  occupation:
-    company: IBM
-    position: Intern
-
-  interests:
-    - Software Development
-    - Technology
-    - Problem Solving
-    - Programming
-
-  philosophy: "Always evolving."
-  status: "Building something new..."
-```
-
-Sou apaixonado por tecnologia, programação e desenvolvimento de software.
-
-Atualmente, atuo como **estagiário na IBM**, onde busco ampliar meus conhecimentos, desenvolver minhas habilidades e crescer profissionalmente no universo da tecnologia.
-
-Gosto de explorar novas ferramentas, experimentar ideias e transformar conceitos em projetos reais.
-
-Meu GitHub funciona como meu laboratório: um espaço para aprender, construir, testar e evoluir constantemente.
-
----
-
-<div align="center">
-
-# 02 // IBM
-
-### PROFESSIONAL JOURNEY
 
 </div>
 
 <table>
 <tr>
-<td width="70">
+<td width="55%" valign="top">
 
-<img src="https://cdn.simpleicons.org/ibm/FFFFFF" width="48" alt="IBM"/>
+### ◈ WHO AM I?
+
+Olá! Sou **Gabriel de Souza Fonseca**, apaixonado por tecnologia, programação e desenvolvimento de software.
+
+Atualmente sou **estagiário na IBM**, buscando evoluir profissionalmente, ampliar meus conhecimentos e transformar ideias em soluções.
+
+Encaro cada projeto como uma oportunidade de aprender algo novo. Meu GitHub é meu espaço para experimentar, construir e registrar minha evolução.
 
 </td>
-<td>
+<td width="45%" valign="top">
 
-**IBM — Estagiário**
+### ◈ CHARACTER PROFILE
 
-Atuação profissional e desenvolvimento contínuo na área de tecnologia.
+```yaml
+name: Gabriel Fonseca
+alias: FoonsGabriel
+class: Software Developer
+company: IBM
+rank: Intern
+location: Brazil
 
-Buscando ampliar conhecimentos, adquirir experiência e contribuir com soluções.
+interests:
+  - Programming
+  - Technology
+  - Problem Solving
+  - Software Development
+
+status: Always evolving
+```
 
 </td>
 </tr>
 </table>
 
-`LEARNING` &nbsp; `DEVELOPMENT` &nbsp; `EVOLUTION`
-
----
-
 <div align="center">
 
-# 03 // TECHNOLOGICAL ARSENAL
-
-### Tools are extensions of the mind.
-
-</div>
-
-### Linguagens
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</div>
-
-### Desenvolvimento Web
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-</div>
-
-### Ferramentas e Hardware
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+`// THE VOID IS NOT THE END. IT IS THE BEGINNING.`
 
 </div>
 
@@ -139,76 +81,181 @@ Buscando ampliar conhecimentos, adquirir experiência e contribuir com soluçõe
 
 <div align="center">
 
-# 04 // PROJECT ARCHIVE
-
-### Creations from the world of ideas.
+## 02 — PROFESSIONAL JOURNEY
+### IBM // THE NEXT STAGE
 
 </div>
 
-### ⚔️ SHINOBI VTT — NARUTOTABLETOP
+<table>
+<tr>
+<td width="18%" align="center" valign="middle">
 
-**Virtual Tabletop | RPG | Interactive Development**
+<img src="https://cdn.simpleicons.org/ibm/FFFFFF" width="75" alt="IBM"/>
 
-Um projeto inspirado no universo Naruto, voltado à criação de uma experiência de RPG de mesa virtual.
+</td>
+<td valign="middle">
 
-Entre seus elementos estão:
+### IBM — Estagiário
 
-- Mapas interativos.
-- Tokens e personagens.
-- Ferramentas para interação com o cenário.
-- Desenvolvimento de funcionalidades próprias para o sistema.
+Minha jornada profissional na IBM representa uma oportunidade de aprendizado, desenvolvimento e crescimento no universo da tecnologia.
 
-`PROJECT: SHINOBI VTT`
+**FOCO:** evolução contínua, conhecimento e experiência profissional.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`LEARNING`　◆　`DEVELOPMENT`　◆　`EVOLUTION`
+
+</div>
 
 ---
 
-### 🧪 GASTROSYNQ
+<div align="center">
 
-**Software Development | Technology**
+## 03 — RESURRECCIÓN
+### TECHNOLOGICAL ARSENAL
 
-Projeto acadêmico de tecnologia e desenvolvimento de software, explorando a construção de uma solução digital.
+*Cada ferramenta é uma nova habilidade. Cada linguagem, uma nova possibilidade.*
 
-`PROJECT: GASTROSYNQ`
+</div>
+
+### ◈ PROGRAMMING LANGUAGES
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-00D6A0?style=for-the-badge&logo=openjdk&logoColor=000000&labelColor=101414"/>
+<img src="https://img.shields.io/badge/Python-00D6A0?style=for-the-badge&logo=python&logoColor=000000&labelColor=101414"/>
+<img src="https://img.shields.io/badge/JavaScript-00D6A0?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=101414"/>
+<img src="https://img.shields.io/badge/C%23-00D6A0?style=for-the-badge&logo=csharp&logoColor=000000&labelColor=101414"/>
+<img src="https://img.shields.io/badge/Kotlin-00D6A0?style=for-the-badge&logo=kotlin&logoColor=000000&labelColor=101414"/>
+<img src="https://img.shields.io/badge/SQL-00D6A0?style=for-the-badge&logo=mysql&logoColor=000000&labelColor=101414"/>
+
+</div>
+
+### ◈ WEB DEVELOPMENT
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-00D6A0?style=for-the-badge&logo=html5&logoColor=000000&labelColor=101414"/>
+<img src="https://img.shields.io/badge/CSS3-00D6A0?style=for-the-badge&logo=css3&logoColor=000000&labelColor=101414"/>
+<img src="https://img.shields.io/badge/React-00D6A0?style=for-the-badge&logo=react&logoColor=000000&labelColor=101414"/>
+<img src="https://img.shields.io/badge/Node.js-00D6A0?style=for-the-badge&logo=nodedotjs&logoColor=000000&labelColor=101414"/>
+
+</div>
+
+### ◈ HARDWARE & TOOLS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-00D6A0?style=for-the-badge&logo=git&logoColor=000000&labelColor=101414"/>
+<img src="https://img.shields.io/badge/Arduino-00D6A0?style=for-the-badge&logo=arduino&logoColor=000000&labelColor=101414"/>
+<img src="https://img.shields.io/badge/ESP32-00D6A0?style=for-the-badge&logo=espressif&logoColor=000000&labelColor=101414"/>
+
+</div>
+
+<sub><i>Technologies explored throughout my learning and development journey.</i></sub>
 
 ---
 
-### 🧩 POKEWIKI
+<div align="center">
+
+## 04 — LAS NOCHES ARCHIVE
+### PROJECTS // MISSIONS IN PROGRESS
+
+*Ideias que saíram do papel e começaram a ganhar forma.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ SHINOBI VTT
+
+**NARUTOTABLETOP**
+
+Um Virtual Tabletop inspirado no universo Naruto, criado para experiências de RPG de mesa.
+
+- Mapas interativos
+- Tokens e personagens
+- Interação com cenários
+- Desenvolvimento de funcionalidades próprias
+
+`STATUS: IN DEVELOPMENT`
+
+[ ACESSAR PROJETO ](https://github.com/FoonsGabriel)
+
+</td>
+<td width="50%" valign="top">
+
+### ✚ GASTROSYNQ
+
+**ACADEMIC PROJECT**
+
+Projeto acadêmico de tecnologia e desenvolvimento de software, desenvolvido como parte da jornada de aprendizado.
+
+`STATUS: PROJECT ARCHIVE`
+
+[ ACESSAR REPOSITÓRIO ](https://github.com/FoonsGabriel)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◉ POKEWIKI
 
 Projeto disponível publicamente no GitHub.
 
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FoonsGabriel/PokeWiki)
+`STATUS: REPOSITORY`
 
----
+[ ACESSAR POKEWIKI ](https://github.com/FoonsGabriel/PokeWiki)
 
-### 🧠 BACKTRACKING C#
+</td>
+<td width="50%" valign="top">
 
-Estudo de algoritmos de backtracking utilizando C#, com exploração de caminhos em matrizes e conceitos relacionados a grafos.
+### ⌘ BACKTRACKING C#
 
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FoonsGabriel/BackTrackingCsharp)
+Estudo de algoritmos de backtracking em C#, explorando caminhos em matrizes e conceitos relacionados a grafos.
 
----
+`STATUS: STUDY PROJECT`
+
+[ ACESSAR REPOSITÓRIO ](https://github.com/FoonsGabriel/BackTrackingCsharp)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### ⚙️ OFICINAGITHUB
 
 Repositório de prática e aprendizado com GitHub.
 
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FoonsGabriel/OficinaGitHub)
+`STATUS: REPOSITORY`
+
+[ ACESSAR OFICINAGITHUB ](https://github.com/FoonsGabriel/OficinaGitHub)
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-# 05 // ACTIVITY
+## 05 — SPIRITUAL PRESSURE
+### ACTIVITY // CONTINUOUS EVOLUTION
 
-### The evolution never stops.
+Não existe evolução sem prática. Cada linha de código representa mais um passo.
 
-</div>
+<br/>
 
-<div align="center">
+[![Repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-00D6A0?style=for-the-badge&logo=github&logoColor=000000&labelColor=101414)](https://github.com/FoonsGabriel?tab=repositories)
 
-[![GitHub Profile](https://img.shields.io/badge/EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FoonsGabriel?tab=repositories)
-
-[![Contribution Graph](https://img.shields.io/badge/VIEW_CONTRIBUTIONS-00A878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FoonsGabriel?tab=overview)
+[![Contributions](https://img.shields.io/badge/VIEW_CONTRIBUTIONS-00D6A0?style=for-the-badge&logo=github&logoColor=000000&labelColor=101414)](https://github.com/FoonsGabriel?tab=overview)
 
 </div>
 
@@ -216,30 +263,34 @@ Repositório de prática e aprendizado com GitHub.
 
 <div align="center">
 
-# 06 // CONTACT
+## 06 — ESTABLISH CONNECTION
+### THE WORLD IS NOT SO EMPTY.
 
-### Establish connection.
+<br/>
 
-<br>
+<a href="https://github.com/FoonsGabriel">
+<img src="https://img.shields.io/badge/GITHUB-FOONSGABRIEL-00D6A0?style=for-the-badge&logo=github&logoColor=000000&labelColor=101414"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-FOONSGABRIEL-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FoonsGabriel)
+<a href="https://www.linkedin.com/in/gabriel-fonseca-568050355/">
+<img src="https://img.shields.io/badge/LINKEDIN-GABRIEL_FONSECA-00D6A0?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=101414"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-GABRIEL_FONSECA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fonseca-568050355/)
-
-<br>
+<br/><br/>
 
 ---
 
 ### 「 Why do humans seek meaning? 」
 
-# ULQUIORRA // THE VOID
+# 𝙐𝙇𝙌𝙐𝙄𝙊𝙍𝙍𝘼
+## `THE VOID`
 
-`THINK` &nbsp; ◆ &nbsp; `CREATE` &nbsp; ◆ &nbsp; `EVOLVE`
+`THINK`　◆　`CREATE`　◆　`EVOLVE`
 
 <sub>There is always another level to reach.</sub>
 
-<br>
+<br/>
 
-**FOONSGABRIEL © 2026**
+<img src="https://img.shields.io/badge/FOONSGABRIEL-00D6A0?style=flat-square&labelColor=080B0B"/>
 
 </div>
